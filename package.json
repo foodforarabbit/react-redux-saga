@@ -47,5 +47,8 @@
   "peerDependencies": {
     "react": "*",
     "redux-saga": "*"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
   }
 }
